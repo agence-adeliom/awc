@@ -76,7 +76,7 @@
     "@shoelace-style/animations": "^1.1.0",
     "@shoelace-style/localize": "^3.1.2",
     "chalk": "^5.3.0",
-    "composed-offset-position": "^0.0.4",
+    "composed-offset-position": "^0.0.6",
     "fflate": "^0.8.2",
     "leaflet": "^1.9.4",
     "leaflet.gridlayer.googlemutant": "^0.14.1",
