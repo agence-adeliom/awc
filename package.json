@@ -162,7 +162,7 @@
     "typescript": "^5.4.5",
     "unist-util-visit": "^5.0.0",
     "user-agent-data-types": "^0.4.2",
-    "vite": "^5.2.10"
+    "vite": "^6.0.6"
   },
   "peerDependencies": {
     "@lit-labs/react": "^2.1.1",
